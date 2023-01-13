@@ -1,5 +1,5 @@
 {
-    "name": "yoast/wp-helpscout",
+    "name": "lastk/wp-helpscout",
     "description": "A package to integrate the helpscout beacon into WordPress",
     "license": "GPL-3.0+",
     "authors": [
